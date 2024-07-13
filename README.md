@@ -11,6 +11,10 @@ TO USE PRE-BUILT FIRMWARE:
  - Put micro-SD card into Ender 3 and start it up!
  - You should see it working, but in case you're not sure by the LCD, if you check the micro-SD card again, the file name should now be firmware.cur (Make sure not to delete this!)
 
+TO MANUALLY BUILD FIRMWARE:
+ - I recommend watch the first video in the playlist, it will help you get started
+ - Make sure to use this version of the firmware, don't go to the Marlin site, everything except the tools are included!
+
 Drivers:
  - X: TMC2209 
  - Y: TMC2209 
