@@ -1,0 +1,3 @@
+This version of Marlin-2.1.2.4 was edited!
+ - Author: Hisham (H45H)
+ - Purpose: For any Ender 3 with BBT SKR3 EZ!
