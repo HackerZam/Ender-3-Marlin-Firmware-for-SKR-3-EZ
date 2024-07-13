@@ -27,4 +27,7 @@ Q&A:
 Q: Is there BL Touch Support?
 A: Yes! Make sure to enable it in your configuration. (I disabled it because my BL Touch was a knock-off, be weary of them! Research the wiring before purchasing!)
 
+Q: Why not the bugfix version of Marlin?
+A: In my experience of compiling it, it wouldn't work properly and contained many errors. Using this version seemed to work almost flawlessly and realistically on my Ender 3. If it works, it works I say.  
+
 (More Q&A coming soon!)
